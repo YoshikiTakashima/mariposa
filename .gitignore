@@ -18,5 +18,5 @@ pyvenv.cfg
 data/*
 !data/chunk.tar.gz.*
 !data/sample_lists/
-!data/*.lrz
+!data/*.tar.gz
 temp
